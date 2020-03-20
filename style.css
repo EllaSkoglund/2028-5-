@@ -1,3 +1,22 @@
-body{
+.correct{
   background:green;
 }
+
+.incorrect{
+  background:red;
+}
+
+body{
+  background-image:(https://images-na.ssl-images-amazon.com/images/I/713Pc3BI2sL._AC_SY679_.jpg);
+  background:lightyellow;
+  font-family: "Times New Roman" , Times,
+    serif;
+}
+
+#prueba{
+  width:1000px;
+  position:absolute;
+  top:0;
+  right:100px;
+}
+
